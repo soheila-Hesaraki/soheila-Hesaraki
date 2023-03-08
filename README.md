@@ -9,7 +9,8 @@ When it comes to my research interests, I'm passionate about exploring different
 - Speech recognition
 - Mchine learning
 
-I love working on projects in these fields, and I try to share them with you whenever I can. Of course, if there's no NDA contract or restrictions 😄
+I love working on projects in these fields, and I try to share them with you whenever I can 💛.
+Of course, if there's no NDA contract or restrictions 😄
 
 ## 📫 How to reach me?
 
