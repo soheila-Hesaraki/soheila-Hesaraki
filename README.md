@@ -2,15 +2,13 @@
 
 I'm currently a student at KULeuven studying Artificial Intelligence, specializing in Engineering and Computer Science. But don't let that intimidate you! 😄
 
-I also have experience in Speech and Language Technology, which is pretty cool, right?
+I've explored different areas within tech, including:
+- data mining
+- speech recognition
+- machine learning
+- computer vision
 
-When it comes to my research interests, I'm passionate about exploring different areas such as :
-- Data mining
-- Speech recognition
-- Mchine learning
-
-I love working on projects in these fields, and I try to share them with you whenever I can 💛.
-Of course, if there's no NDA contract or restrictions 😄
+while I may not be a wizard 😄 or the ultimate authority on these subjects, I'm always eager to expand my knowledge and improve my skills. I try to share them with you whenever I can 💛. Of course, if there's no NDA contract or restrictions 😄
 
 ## 📫 How to reach me?
 
