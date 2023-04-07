@@ -8,7 +8,7 @@ I've explored different areas within tech, including:
 - machine learning
 - computer vision
 
-while I may not be a wizard 😄 or the ultimate authority on these subjects, I'm always eager to expand my knowledge and improve my skills. I try to share them with you whenever I can 💛. Of course, if there's no NDA contract or restrictions 😄
+I'm always eager to expand my knowledge and improve my skills. I try to share them with you whenever I can 💛. Of course, if there's no NDA contract or restrictions 😄
 
 ## 📫 How to reach me?
 
