@@ -3,10 +3,11 @@
 I'm currently a student at KULeuven studying Artificial Intelligence, specializing in Engineering and Computer Science. But don't let that intimidate you! 😄
 
 I've explored different areas within tech, including:
-- data mining
-- speech recognition
-- machine learning
-- computer vision
+- Data mining
+- Speech recognition
+- Machine learning
+- Computer vision
+- Image processing
 
 I'm always eager to expand my knowledge and improve my skills. I try to share them with you whenever I can 💛. Of course, if there's no NDA contract or restrictions 😄
 
